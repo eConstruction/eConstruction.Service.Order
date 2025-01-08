@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7FIuQbTo7ow=",
+  "success": true,
+  "projectFilePath": "D:\\Workstation\\PlayGround\\Applications\\eConstruction\\eConstruction.Service.Order\\src\\eConstruction.Service.Order\\eConstruction.Service.Order.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rowshan.kibria\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\rowshan.kibria\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\rowshan.kibria\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\rowshan.kibria\\.nuget\\packages\\nswag.msbuild\\14.2.0\\nswag.msbuild.14.2.0.nupkg.sha512",
+    "C:\\Users\\rowshan.kibria\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
+    "C:\\Users\\rowshan.kibria\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
+    "C:\\Users\\rowshan.kibria\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

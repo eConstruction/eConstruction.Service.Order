@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0FkcQkYnLWGd8f5XZkgry+6PuyLLLAIz/HQ2R3PlYqI=",
+  "Source": "eConstruction.Service.Order",
+  "BasePath": "_content/eConstruction.Service.Order",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
