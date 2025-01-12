@@ -4,7 +4,7 @@ namespace eConstruction.Service.Order.Controllers
 {
     [ApiController]
     [ApiExplorerSettings(GroupName = "v1")]
-    [Route("[controller]")]
+    [Route("api/v1/orders/")]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
@@ -28,7 +28,7 @@ namespace eConstruction.Service.Order.Controllers
             _logger = logger;
         }
 
-        [HttpGet(Name = "GetOrderWeatherForecast")]
+        [HttpGet]
         public IEnumerable<WeatherForecast> GetOrderWeatherForecast()
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
